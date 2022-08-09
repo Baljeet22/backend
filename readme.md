@@ -41,3 +41,6 @@ response expected(Object/json):
     "profilemaketime": "1660028647305",
     "__v": 0
 }
+__________________________________________________________________________
+
+edit env file with required information
